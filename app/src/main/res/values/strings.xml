@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCharacterList</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="placeholder_search">Search</string>
+    <string name="name_profile">Ahmed Indarafata Akmal M.S.</string>
+    <string name="email_profile">a123bsy2618@bangkit.academy</string>
+</resources>
